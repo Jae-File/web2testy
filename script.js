@@ -1,2 +1,5 @@
 console.log('hello Jae!')
-document.write('<h1> Hi!</h1>')
+let adj_list = ['shiny', 'funky', 'amazing']
+
+document.write('Last week is a '+ adj_list[Math.floor(adjectives.length*Math.random())] + 'week, '
+)
